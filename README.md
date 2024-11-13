@@ -48,7 +48,8 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![IMG-20241019-WA0032](https://github.com/user-attachments/assets/367dd590-0978-45bf-bbc9-84e181d23d0a)
+![Screenshot 2024-11-13 103201](https://github.com/user-attachments/assets/cda6a354-d180-4b0f-9804-4b7978cbfdde)
+
 
  
 iii)	Creating the Symbol for schematic Cell view
@@ -65,7 +66,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0029](https://github.com/user-attachments/assets/bcea6826-7c9d-464b-a645-aa0f6b0c80aa)
+![Screenshot 2024-11-13 103226](https://github.com/user-attachments/assets/f2046248-dfdb-40e5-b481-fd35dd79331c)
+
 
 
 
@@ -80,7 +82,8 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0031](https://github.com/user-attachments/assets/11ad6598-e17a-42d3-becf-022d93e4e99d)
+![Screenshot 2024-11-13 103302](https://github.com/user-attachments/assets/0af30ca1-a82b-4233-81a2-a53c22301092)
+
 
  
 
@@ -95,14 +98,17 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
 
-![IMG-20241026-WA0016](https://github.com/user-attachments/assets/cefafc03-6c2e-4227-91fe-f21f1241754c)
+![Screenshot 2024-11-13 103331](https://github.com/user-attachments/assets/caf052b4-974d-41a4-b43d-c991c14ce6ad)
+
 
 
 For Transient Analysis Settings and Output
-![IMG-20241019-WA0028](https://github.com/user-attachments/assets/ccc48800-045e-4cf8-b9d7-bf8fc443e8ae)
+![Screenshot 2024-11-13 103400](https://github.com/user-attachments/assets/9e0ac5dd-51e4-405b-86d1-bd8661ec972a)
 
 
- ![IMG-20241019-WA0027](https://github.com/user-attachments/assets/c13a30de-284c-4201-8bde-c9fc9e88234b)
+
+
+![Screenshot 2024-11-13 103447](https://github.com/user-attachments/assets/ecf5a368-402c-4141-84c2-5a1e2015593e)
 
   
 
